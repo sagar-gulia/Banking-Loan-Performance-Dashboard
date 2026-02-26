@@ -1,6 +1,7 @@
 # Banking-Loan-Performance-Dashboard
 
-Short Discription /Purpose
+Short Discription /Purpose:
+
 Banking Loan Performance Dashboard is an interactive data visualization project that provides a comprehensive overview of loan operations and portfolio health. It highlights key metrics such as total loan amount, approval rate, default rate, net exposure, regional loan distribution, and branch performance.
 
 The dashboard enables stakeholders to:
