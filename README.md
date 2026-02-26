@@ -42,3 +42,5 @@ Performance Monitoring
 Portfolio Optimization
 Operational Transparency
 Strategic Planning Support
+
+Screen shot : https://github.com/sagar-gulia/Banking-Loan-Performance-Dashboard/blob/main/screenshot%20of%20Banking%20Loan%20Performance%20Dashboard.png
